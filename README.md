@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marci1175
-- 👀 I’m interested in all programming languages except rust and lua
+- 👀 I’m interested in all programming languages except lua
 - 🌱 I’m currently learning cpp
 - 📫 You can reach me on my dc, marci#1175
 
