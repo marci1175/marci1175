@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marci1175
-- 👀 I’m interested in all programming languages except 
+- 👀 I’m interested in all programming languages except C#
 - 🌱 As of 2023. 06. 12. I am currently learning rust
 - 📫 You can reach me on my dc, marci#1175
 <img src="https://komarev.com/ghpvc/?username=marci1175&color=blue" alt="watching_count" />
