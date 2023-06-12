@@ -3,7 +3,7 @@
 - 🌱 As of 2023. 06. 12. I am currently learning rust
 - 📫 You can reach me on my dc, marci#1175
 <img src="https://komarev.com/ghpvc/?username=marci1175&color=blue" alt="watching_count" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marci1175" />
 
 <!---
 marci1175/marci1175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
