@@ -2,7 +2,7 @@
 - 👀 I’m interested in all programming languages except 
 - 🌱 As of 2023. 06. 12. I am currently learning rust
 - 📫 You can reach me on my dc, marci#1175
-<img src="https://komarev.com/ghpvc/?username=marci1175&color=brightblue" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=marci1175&color=blue" alt="watching_count" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marci1175&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!---
