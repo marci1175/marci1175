@@ -3,10 +3,10 @@
 - 🌱 As of 2023. 06. 12. I am currently learning rust
 - 📫 You can reach me on my dc, marci#1175
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marci1175&repo=ChatApp" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marci1175" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marci1175&repo=rust-Notepad" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marci1175&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!---
