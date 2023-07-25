@@ -3,9 +3,7 @@
 
 </div>
 
-## Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/659437128408629268)](https://discord.com/users/659437128408629268)
+## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marci1175" />
 </a>
