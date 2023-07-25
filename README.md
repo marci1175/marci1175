@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @marci1175
-- 👀 I’m interested in all programming languages except C#
-- 🌱 As of 2023. 06. 12. I am currently learning rust
-- 📫 You can reach me on my dc, marci#1175
+<div align="center">
+<h1>Marci1175</h1>
+
+</div>
+
+## Status
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/408576714243833867)](https://discord.com/users/659437128408629268)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marci1175" />
 </a>
