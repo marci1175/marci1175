@@ -2,7 +2,7 @@
 
 ## Statistics
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marci1175&langs_count=8" />
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marci1175&langs_count=8" />
 </a>
 </div>
 
